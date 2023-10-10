@@ -15,3 +15,9 @@ export default {
     height: 40px;
   }
 </style>
+
+// Последовательность команд для отправки проекта:
+// git clone git@github.com:AugustSprout/Homework7.git
+// git add -A
+// git commit -m `комментарий`
+// git push
